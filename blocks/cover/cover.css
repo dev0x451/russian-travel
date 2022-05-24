@@ -1,0 +1,27 @@
+.cover {
+  margin: 90px 48px 0;
+  position: relative;
+  box-sizing: border-box;
+}
+
+.cover:hover .cover__overlay {
+  opacity: .8;
+}
+
+@media screen and (max-width: 1024px) {
+  .cover {
+    margin: 90px 0 0;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .cover {
+    margin: 92px 0 0;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .cover {
+    margin: 66px 0 64px;
+  }
+}
