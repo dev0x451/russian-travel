@@ -1,0 +1,17 @@
+.cover__text {
+  position: relative;
+  z-index: 2;
+  max-width: 560px;
+}
+
+@media screen and (max-width: 700px) {
+  .cover__text {
+    max-width: 450px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .cover__text {
+    max-width: 350px;
+  }
+}

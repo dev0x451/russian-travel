@@ -1,6 +1,7 @@
 .intro {
   padding: 0 148px 0;
   margin: 92px 0 0;
+  max-width: 690px;
 }
 
 @media screen and (max-width: 1024px) {
@@ -13,6 +14,7 @@
   .intro {
     padding: 0;
     margin: 88px 24px 0;
+    max-width: none;
   }
 }
 
@@ -20,5 +22,6 @@
   .intro {
     padding: 0 16px 0;
     margin: 64px 0 0;
+    max-width: none;
   }
 }

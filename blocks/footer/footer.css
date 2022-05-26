@@ -1,12 +1,12 @@
 .footer {
-  padding: 88px 48px 24px;
+  padding: 92px 48px 24px;
   display: flex;
   justify-content: space-between;
 }
 
 @media screen and (max-width: 768px) {
   .footer {
-    padding: 85px 24px 24px;
+    padding: 87px 24px 24px;
   }
 }
 

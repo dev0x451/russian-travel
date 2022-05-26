@@ -1,11 +1,6 @@
 .cover {
   margin: 90px 48px 0;
-  position: relative;
   box-sizing: border-box;
-}
-
-.cover:hover .cover__overlay {
-  opacity: .8;
 }
 
 @media screen and (max-width: 1024px) {
@@ -22,6 +17,6 @@
 
 @media screen and (max-width: 425px) {
   .cover {
-    margin: 66px 0 64px;
+    margin: 63px 0 0;
   }
 }
