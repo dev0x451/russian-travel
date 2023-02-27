@@ -1,4 +1,4 @@
-# Проект "Путешествие по России"
+# Проект "Путешествия по России"
 
 ![Скриншот сайта](https://github.com/dev0x451/russian-travel/blob/main/images/site-screenshot.jpg)
 
