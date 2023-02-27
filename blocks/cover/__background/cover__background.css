@@ -1,7 +1,7 @@
 .cover__background {
   width: 100%;
-  max-height: 740px;
   height: 57.812vw;
+  max-height: 740px;
   display: flex;
   flex-direction: column;
   justify-content: center;
